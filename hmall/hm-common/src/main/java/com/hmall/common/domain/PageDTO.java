@@ -24,6 +24,11 @@ public class PageDTO<T> {
     public static <T> PageDTO<T> empty(Long total, Long pages) {
         return new PageDTO<>(total, pages, CollUtils.emptyList());
     }
+
+    public static <T> PageDTO<T> fullPage(Long total, Long pages, List<T> list) {
+        return new PageDTO<>(total, pages, list);
+    }
+
     public static <T> PageDTO<T> empty(Page<?> page) {
         return new PageDTO<>(page.getTotal(), page.getPages(), CollUtils.emptyList());
     }

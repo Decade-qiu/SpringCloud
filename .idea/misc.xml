@@ -7,16 +7,27 @@
         <option value="$PROJECT_DIR$/../day01-MybatisPlus/资料/mp-demo/pom.xml" />
         <option value="$PROJECT_DIR$/mp-demo/pom.xml" />
         <option value="$PROJECT_DIR$/hmall/pom.xml" />
+        <option value="$PROJECT_DIR$/hmall/pay-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloud/pay-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloud/day06-MQ入门/资料/mq-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloud/day06-MQ入门/资料/mq-demo/publisher/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloud/day06-MQ入门/资料/mq-demo/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/search-service/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloud/day06-MQ入门/资料/mq-demo/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloud/day06-MQ入门/资料/mq-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloud/day06-MQ入门/资料/mq-demo/publisher/pom.xml" />
         <option value="$PROJECT_DIR$/../day01-MybatisPlus/资料/mp-demo/pom.xml" />
       </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

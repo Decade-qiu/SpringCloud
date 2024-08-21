@@ -20,7 +20,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/search")
 @RequiredArgsConstructor
 public class SearchController {
-
     private final IItemService itemService;
 
     @ApiOperation("搜索商品")
